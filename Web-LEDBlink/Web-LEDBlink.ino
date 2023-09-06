@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "Edayady";
-const char* password = "mynameismilanmilosh";
+const char* ssid = "ssid_name";
+const char* password = "ssid_password";
  
 int ledPin = 13; // GPIO13
 WiFiServer server(80);
